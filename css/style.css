@@ -34,12 +34,12 @@ body {
 
 p {
     color: #626262;
-    font-family: playfair display;
+    font-family: 'Playfair display';
     font-size: 14px;
 }
 h2 {
     color: #626262;
-    font-family: playfair display;
+    font-family: 'Playfair display';
     font-size: 30px;
 }
 .title {
