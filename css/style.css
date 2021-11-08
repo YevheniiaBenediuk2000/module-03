@@ -1,97 +1,91 @@
 body {
-    margin: 0px;
-    padding: 0px;
-    
+  margin: 0px;
+  padding: 0px;
 }
 .container {
-    width: 910px;
-    margin-right: auto;
-    margin-left: auto;
+  width: 910px;
+  margin-right: auto;
+  margin-left: auto;
 }
 .main-nav {
-    font-family: 'Playfair Display';
+  font-family: "Playfair Display";
 }
 
 .header {
-    margin-top: 77px;
-    margin-bottom: 103px;
+  margin-top: 77px;
+  margin-bottom: 103px;
 }
 
 .main-menu {
-    text-align: center;
+  text-align: center;
 }
 .main-menu-item {
-    display: inline-block;
-    margin-right: 122px;
-
+  display: inline-block;
+  margin-right: 122px;
 }
 
 .main-menu-item:last-child {
-    margin-right: 0;
-
+  margin-right: 0;
 }
 
 p {
-    color: #626262;
-    font-family: 'Playfair display';
-    font-size: 14px;
+  color: #626262;
+  font-family: "Playfair display";
+  font-size: 14px;
 }
 h2 {
-    color: #626262;
-    font-family: 'Playfair display';
-    font-size: 30px;
+  color: #626262;
+  font-family: "Playfair display";
+  font-size: 30px;
 }
 .title {
-    color: #b4ad9e;
-    font-family: 'Ubuntu';
-    font-size: 14px; 
-    text-transform: uppercase;
-    margin-top: 30px
+  color: #b4ad9e;
+  font-family: "Ubuntu";
+  font-size: 14px;
+  text-transform: uppercase;
+  margin-top: 30px;
 }
 a {
-    color: #000000;    
-    text-decoration: none;
-    text-transform: uppercase;
-    font-size: 14px;
+  color: #000000;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 14px;
 }
 a:hover {
-    color: #8ecef8;
+  color: #8ecef8;
 }
 input {
-    color: #626262;
+  color: #626262;
 }
 .card {
-    width: 420px;
-    display: inline-block;
-    margin-right: 60px;
-    margin-bottom: 125px;
+  width: 420px;
+  display: inline-block;
+  margin-right: 60px;
+  margin-bottom: 125px;
 }
 
 .card:nth-child(2n) {
-    margin-right: 0;
+  margin-right: 0;
 }
-.card:nth-child(n+2) {
-    margin-bottom: 0;
+.card:nth-child(n + 2) {
+  margin-bottom: 0;
 }
 .footer {
-    text-align: center;
-    margin-top: 60px;
-    margin-bottom:70px;
-
+  text-align: center;
+  margin-top: 60px;
+  margin-bottom: 70px;
 }
 button {
-    color: #626262;
-    background-color: #ffffff;
-    width: 165px;
-    height: 60px;
-    font-family: 'Playfair Display';
-    font-size: 20px;
-    outline: solid 1px #626262;
-    border:none;
-    cursor: pointer;
-    
+  color: #626262;
+  background-color: #ffffff;
+  width: 165px;
+  height: 60px;
+  font-family: "Playfair Display";
+  font-size: 20px;
+  outline: solid 1px #626262;
+  border: none;
+  cursor: pointer;
 }
 button:hover {
-    color: #8ecef8
-    
+  color: #8ecef8;
 }
